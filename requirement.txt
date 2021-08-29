@@ -1,0 +1,8 @@
+# requirement 
+# install these lib and one headleass browser to sent API request
+bs4
+requests
+selenium
+chromedriver
+scrapy
+selenium
