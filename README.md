@@ -24,7 +24,7 @@ Running
 
 In order to run the spider, you need some seed urls and a relevancy function
 that will provide reward value for each crawled page. There are some scripts
-# start a crawl where reward is given by a classifier that returns a score with textt match (wiki and NVD) method.
+### start a crawl where reward is given by a classifier that returns a score with text match (wiki and NVD) method.
 
 Requirements
 ------------
