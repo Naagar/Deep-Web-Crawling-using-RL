@@ -15,10 +15,9 @@ for Deep web. Weird.
 For keywords and relevancy crawlers, the following files will be created
 in the result folder:
 
-Presentation   
-------------
+   
 
-    RL_WebCrawling_Presentation.pptx
+![Flow](examples/web_crawling_RL.png)
 
 Running
 -------
